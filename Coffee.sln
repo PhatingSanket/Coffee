@@ -17,7 +17,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Website", "Website", "{64AC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coffee.Foundation.Configuration", "src\Foundation\Configuration\code\Coffee.Foundation.Configuration.csproj", "{295BBED1-1997-4FA6-A281-773A7803BC0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coffee.Project.Website", "src\Project\Website\code\Coffee.Project.Website.csproj", "{66DDE9DC-8A6D-4ADF-9FFE-23F99E916EC5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coffee.Project.GreenStreetCoffee", "src\Project\Website\code\Coffee.Project.GreenStreetCoffee.csproj", "{66DDE9DC-8A6D-4ADF-9FFE-23F99E916EC5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coffee.Feature.Navigation", "src\Feature\Navigation\code\Coffee.Feature.Navigation.csproj", "{63D0EC42-9906-458B-84BD-85E87AFB8BC4}"
 EndProject
